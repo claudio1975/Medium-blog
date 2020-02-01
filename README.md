@@ -10,6 +10,10 @@ Articles written on Medium website:
 
   https://medium.com/@datasciencemilan
   
+- Follow me on analytics vidhya:
+
+  https://medium.com/analytics-vidhya
+  
   
   
   
