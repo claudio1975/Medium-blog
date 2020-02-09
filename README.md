@@ -12,7 +12,7 @@ Articles written on Medium website:
   
 - Follow me on analytics vidhya:
 
-  https://medium.com/analytics-vidhya
+  https://medium.com/analytics-vidhya/@c.giancaterino
   
   
   
