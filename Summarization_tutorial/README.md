@@ -1,4 +1,4 @@
-without titles and subtitles and without important note paragraph
+-without titles and subtitles and without important note paragraph
 sample_doc = """
 You must report to Us immediately any
 accident, injury, loss or damage which
