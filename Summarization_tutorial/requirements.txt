@@ -1,7 +1,5 @@
-python==3.9
-os
 streamlit
-openai
+opneai
 langchain
 
 
