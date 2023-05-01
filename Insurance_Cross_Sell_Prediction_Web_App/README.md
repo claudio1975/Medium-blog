@@ -1,5 +1,9 @@
 # Insurance_Cross_Selling_Web_App
 
+Go to the article:
+
+Go to the App: https://tinyurl.com/bszhxuw7
+
 ![](images/cross_selling_homepage.jpg)
 
 
@@ -17,5 +21,4 @@ This goal is relevant for Insurance Companies because in last years they're are 
 
 A Web App is a storytelling tool for the comunication inside the office and the organization about results, relevant features and understand in a friendly way data providing at the management a tool to take decisions.
 
-Go to the article:
-Go to the App: https://tinyurl.com/bszhxuw7
+
