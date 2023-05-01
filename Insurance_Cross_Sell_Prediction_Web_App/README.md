@@ -1,8 +1,5 @@
 # Insurance_Cross_Selling_Web_App
 
-Go to the article: https://medium.com/@c.giancaterino/cross-selling-web-app-on-streamlit-cloud-205108d9b72b
-
-Go to the App: https://towardsinnovationlab-insurance-cross-1-cross-selling-app-sa9fqu.streamlit.app/
 
 ![](images/cross_selling_homepage.jpg)
 
@@ -22,3 +19,6 @@ This goal is relevant for Insurance Companies because in last years they're are 
 A Web App is a storytelling tool for the comunication inside the office and the organization about results, relevant features and understand in a friendly way data providing at the management a tool to take decisions.
 
 
+Go to the article: https://medium.com/@c.giancaterino/cross-selling-web-app-on-streamlit-cloud-205108d9b72b
+
+Go to the App: https://towardsinnovationlab-insurance-cross-1-cross-selling-app-sa9fqu.streamlit.app/
