@@ -1,6 +1,6 @@
 # Insurance_Cross_Selling_Web_App
 
-Go to the article:
+Go to the article: https://medium.com/@c.giancaterino/cross-selling-web-app-on-streamlit-cloud-205108d9b72b
 
 Go to the App: https://tinyurl.com/bszhxuw7
 
