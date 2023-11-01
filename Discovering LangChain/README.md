@@ -1,1 +1,5 @@
+# Discovering Langchain with use cases
 
+LangChain is a framework designed for developing applications around Large Language Models.
+The idea behind the framework is to "chain" together different components in order to build more advanced use cases exploiting 
+Large Language Models.
