@@ -1,8 +1,8 @@
 # Discovering Langchain with use cases:
-# Chat with your Documents;
-# Chatbot Translator;
-# Chat with Wikipedia;
-# Synthetic Data Generator
+## Chat with your Documents;
+## Chatbot Translator;
+## Chat with Wikipedia;
+## Synthetic Data Generator
 
 ![](langChain.jpg)
 
