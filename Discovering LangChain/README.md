@@ -1,6 +1,6 @@
 # Discovering Langchain with use cases
 
-!(Discovering LangChain/LangChain.jpg)
+![](LangChain.jpg)
 
 
 LangChain is a framework designed for developing applications around Large Language Models.
