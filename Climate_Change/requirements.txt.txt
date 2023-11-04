@@ -4,4 +4,3 @@ matplotlib
 seaborn
 scipy
 scikit-learn
-functime
