@@ -1,7 +1,7 @@
 
 # Text Summarization
 
-Go to the app (by invitation request): https://towardsinnovationlab-text-summari-text-summarization-app-ul2k5l.streamlit.app/ 
+Go to the app: https://text-summarize.streamlit.app/
 
 Read the article: https://medium.com/gopenai/extractive-summarization-vs-abstractive-summarization-b60484eb9992
 
