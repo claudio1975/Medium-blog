@@ -1,7 +1,7 @@
 import numpy as np
 import pandas as pd
 import streamlit as st
-
+from mlforecast import MLForecast
 
 st.write("# Welcome to the Climate Change Dashboard! 👋")
 
