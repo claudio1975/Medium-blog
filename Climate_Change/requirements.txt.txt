@@ -2,5 +2,4 @@ streamlit
 numpy
 matplotlib
 seaborn
-polars
-functime
+mlforecast
