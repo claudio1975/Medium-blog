@@ -1,6 +1,6 @@
 ### Customer Lifetime Value
 
-Read the article: https://medium.com/@c.giancaterino/insurance-customer-lifetime-value-prediction-segmentation-5ea0781d51e
+Read the article on ![Medium](https://medium.com/@c.giancaterino/insurance-customer-lifetime-value-prediction-segmentation-5ea0781d51e)
 
 What is customer lifetime value?
 
