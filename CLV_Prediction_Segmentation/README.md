@@ -1,6 +1,6 @@
 ### Customer Lifetime Value
 
-(https://github.com/claudio1975/Medium-blog/blob/master/CLV_Prediction_Segmentation/images/CLV.png)
+![](https://github.com/claudio1975/Medium-blog/blob/master/CLV_Prediction_Segmentation/images/CLV.png)
 
 Read the article on [Medium](https://medium.com/@c.giancaterino/insurance-customer-lifetime-value-prediction-segmentation-5ea0781d51e)
 
