@@ -11,4 +11,4 @@ LangChain is a framework designed for developing applications around Large Langu
 The idea behind the framework is to "chain" together different components in order to build more advanced use cases exploiting 
 Large Language Models.
 
-Read the article -> https://shorturl.at/rxyNS
+Read the ![article]() -> https://shorturl.at/rxyNS
